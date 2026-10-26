@@ -12,6 +12,10 @@
   <strong style="font-size: 24px;">$\color{green}{\text{Телеграмм Бот для заявок в отдел ИТ}}$</strong>
 </p>
 
+<h2 align="center">
+  $\color{green}{\textbf{Telegram Бот для заявок в отдел ИТ}}$
+</h2>
+
 
 **Цель создания:** <br>
 
