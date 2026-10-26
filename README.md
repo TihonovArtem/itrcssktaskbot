@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  [!TIP]Телеграмм Бот для заявок в отдел ИТ
+  Телеграмм Бот для заявок в отдел ИТ
+</p>
+
+<p align="center">
+  <strong style="font-size: 24px;">$\color{green}{\text{Телеграмм Бот для заявок в отдел ИТ}}$</strong>
 </p>
 
 
