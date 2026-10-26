@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="272" height="273" alt="ик4" src="https://github.com/user-attachments/assets/58b1df61-7ae1-4914-95c2-fc95061a65df" />
+  <img width="225" height="225" alt="Изображение WhatsApp 2023-08-23 в 17 05 59" src="https://github.com/user-attachments/assets/6ee94e6b-7180-4f4b-bb91-5f3ef7260415" />
 </p>
 
 <p align="center">
