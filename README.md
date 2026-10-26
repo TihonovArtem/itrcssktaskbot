@@ -13,6 +13,9 @@
   $\color{green}{\mathbf{\textbf{Telegram Бот для заявок в отдел ИТ}}}$
 </h2>
 
+<p align="center">
+  $\color{green}{\textbf{Telegram Бот для заявок в отдел ИТ}}$
+</p>
 
 **Цель создания:** <br>
 
