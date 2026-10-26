@@ -4,13 +4,6 @@
   <img width="225" height="225" alt="Изображение WhatsApp 2023-08-23 в 17 05 59" src="https://github.com/user-attachments/assets/6ee94e6b-7180-4f4b-bb91-5f3ef7260415" />
 </p>
 
-<p align="center">
-  Телеграмм Бот для заявок в отдел ИТ
-</p>
-
-<p align="center">
-  <strong style="font-size: 24px;">$\color{green}{\text{Телеграмм Бот для заявок в отдел ИТ}}$</strong>
-</p>
 
 <h2 align="center">
   $\color{green}{\textbf{Telegram Бот для заявок в отдел ИТ}}$
